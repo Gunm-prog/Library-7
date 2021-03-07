@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-sleuth-api:3.0.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-sleuth-api/3.0.2-SNAPSHOT/spring-cloud-sleuth-api-3.0.2-20210307.053013-79.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-sleuth-api/3.0.2-SNAPSHOT/spring-cloud-sleuth-api-3.0.2-20210307.053013-79-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-sleuth-api/3.0.2-SNAPSHOT/spring-cloud-sleuth-api-3.0.2-20210307.053013-79-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
